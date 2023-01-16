@@ -14,7 +14,7 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 I am currently a Computer Science Research Assistant at the <a href='https://cs.uchicago.edu/'>University of Chicago</a>, working with Professor <a href='https://raulcastrofernandez.com/'>Raul Castro Fernandez</a>.
