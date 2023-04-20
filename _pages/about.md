@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: UChicago '22, B.S. in Computer Science with a minor in Physics
+subtitle: Incoming PhD Student at UChicago CS. UChicago '22, B.S. in Computer Science with a minor in Physics
 
 profile:
   align: right
