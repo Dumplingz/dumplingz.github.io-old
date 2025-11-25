@@ -9,9 +9,17 @@
 - title: Education
   type: time_table
   contents:
+    - title: Ph.D. in Computer Science
+      institution: University of Chicago
+      year: 2023 - Present
+      description:
+      - "GPA: 4.00/4.00"
+      - "Advisor: Raul Castro Fernandez"
+      - "Teaching Assistant Appointments: Databases for Public Policy, Intro to Complexity Theory"
+      - "Research Area: Privacy and Data Sharing"
     - title: B.S. in Computer Science, Minor in Physics
       institution: University of Chicago
-      year: 2022
+      year: 2018 - 2022
       description:
       - "GPA: 3.83/4.00"
       - <u>Relevant Coursework:</u> Intro to Database Systems, Data Science for Computer Scientists, Data Visualization, Intro to Complexity Theory, Computer Networks, Math Foundations of ML, Parallel Computing, Computer Architecture for Scientists, Intro to Graphics, Scientific Visualization"
@@ -19,12 +27,22 @@
 - title: Experience
   type: time_table
   contents:
+  # PhD Researcher | Prof. Raul Castro Fernandez, University of Chicago | Chicago, IL
+# 09/2023 - Present
+# Research problems in Data Sharing: how to help data-driven organizations combine their data with others to unleash their value. Develop a model to describe data sharing called the Dataflow.
+# Utilize the Dataflow model to find commonalities between various Privacy Enhancing Technologies, and evaluate them over the dimensions of trust, scope, and performance.
+
+    - title: PhD Researcher
+      institution: University of Chicago
+      year: 09/2023 - Present
+      description:
+        - "Address problems in Data Sharing: how to help data-driven organizations combine their data with others to unleash its value. Develop a model to describe data sharing called the Dataflow."
+        - "Apply the Dataflow model to find commonalities between various Privacy Enhancing Technologies, and evaluate them over the dimensions of trust, scope, and performance."
     - title: Full-Time Research Assistant
       institution: University of Chicago
       year: 09/2022 - present
       description:
-      - Researching problems in Data Sharing; how to help data-driven organizations combine their data with others to unleash their value.
-      - Focusing on joining disparate schemas and contract-based access control.
+      - "Focused on joining disparate schemas and contract-based access control for Data Sharing."
     - title: Undergraduate Research Assistant
       institution: University of Chicago
       year: 08/2021 - 06/2022
@@ -33,8 +51,11 @@
         - Compared our system with Sieve, a secure file transfer protocol.
 
     - title: Software Engineering Intern
-      institution: KeepTruckin (now Motive)
+      institution: KeepTruckin (now Motive Inc)
       year: 06/2021 - 08/2021
+      description:
+        - "Revamped backend logging with verbose logs for debugging and concise logs for user-facing code."
+        - "Introduced Sorbet, a static typechecker for Ruby into the codebase. Demonstrated a successful proof of concept for adding it into the codebase."
 
 # - title: Open Source Projects
 #   type: time_table
@@ -46,19 +67,21 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - title: National Science Foundation Graduate Research Fellowship
+      year: 2025
+    - title: Liew Family Fellowship
+      year: 2023
     - year: 2022
-      items: 
-        - Dean's List 2021-2022
+      title: Dean's List 2021-2022
     - year: 2019
-      items: 
-        - Dean's List 2018-2019
+      title: Dean's List 2018-2019
 
 - title: Volunteering / Leadership
   type: list
   contents:
+    - <u>Founder & Organizer</u> | Chicago Data Night | Chicago, IL | 2023 - Present
+    - <u>Databases for Public Policy Tutor</u> | University of Chicago | Chicago, IL | 2024
     - <u>UChicago Badminton Club President</u> | University of Chicago | Chicago, IL | 2021 - 2022
-    - <u>Tech Team Member</u> | University of Chicago | Chicago, IL | 01/2020-03/2020
-    - <u>AP Chemistry & Math Tutor</u> | Phoenix Tutoring | Chicago, IL | 2018 - 2020
 
 
 # - title: Academic Interests
@@ -73,7 +96,8 @@
 #         - Description 1.
 #         - Description 2.
 
-- title: Other Interests
+- title: Skills / Hobbies
   type: list
   contents:
+    - <u>Programming Languages:</u> Python (Proficient), C (Prior Experience), Java (Prior Experience), Ruby (Prior Experience), Javascript (Basic Knowledge)
     - <u>Hobbies:</u> Cooking, badminton, lifting, and backpacking
